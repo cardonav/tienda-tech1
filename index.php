@@ -71,11 +71,7 @@
                 </a>
             </div>
 
-            <div class="card">
-                <h2><i class="fas fa-robot"></i> Asistente DeepSeek</h2>
-                <p>Consulta al asistente para ayuda con tu tienda:</p>
-                <iframe src='https://chat.deepseek.com' width='100%' height='300'></iframe>
-            </div>
+            
         </div>
 
         <div class="card">
