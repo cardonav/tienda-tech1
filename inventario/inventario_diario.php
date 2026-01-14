@@ -88,7 +88,7 @@ if(isset($_GET['buscar']) && !empty($_GET['buscar'])){
                     echo "<td class='{$stockClass}'>{$producto['stock']}</td>";
                     echo "<td>$" . number_format($valorTotal, 2) . "</td>";
                     echo "<td>{$estado}</td>";
-                    echo "</tr>";
+                    echo "</tr>"; 
                 }
                 
                 echo "</table>";
