@@ -34,7 +34,7 @@ if(isset($_GET['buscar']) && !empty($_GET['buscar'])){
                 <input name='buscar' placeholder='Buscar por nombre o código...' value='<?php echo $busqueda; ?>'>
                 <button type='submit'><i class="fas fa-search"></i> Buscar</button>
                 <?php if($busqueda): ?>
-                    <a href='inventario_diario.php' class='btn'>Limpiar Búsqueda</a>
+                    <a href='sql202.infinityfree.com' class='btn'>Limpiar Búsqueda</a>
                 <?php endif; ?>
             </form>
         </div>
