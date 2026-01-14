@@ -1,5 +1,5 @@
 <?php
-include('../config/conexion.php');
+include('config/conexion.php');
 
 $mensaje = '';
 if($_POST){

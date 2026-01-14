@@ -1,5 +1,5 @@
 <?php
-include('../config/conexion.php');
+include('config/conexion.php');
 
 // Procesar búsqueda si existe
 $busqueda = '';
@@ -15,8 +15,8 @@ if(isset($_GET['buscar']) && !empty($_GET['buscar'])){
 <head>
     <meta charset='UTF-8'>
     <title>Inventario Diario</title>
-    <link rel='stylesheet' href='../assets/css/estilos.css'>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel='stylesheet' href='assets/css/estilos.css'>
+    <link rel="stylesheet" href="sql202.infinityfree.com">
 </head>
 <body>
     <header>
