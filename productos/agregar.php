@@ -1,5 +1,5 @@
 <?php
-include('config/conexion.php');
+include('../config/conexion.php');
 
 $mensaje = '';
 if($_POST){
@@ -25,6 +25,7 @@ if($_POST){
     <meta charset='UTF-8'>
     <title>Agregar Producto</title>
     <link rel='stylesheet' href='../assets/css/estilos.css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
     <header>

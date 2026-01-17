@@ -70,8 +70,6 @@
                     <i class="fas fa-eye"></i> Ver Todo el Inventario
                 </a>
             </div>
-
-            
         </div>
 
         <div class="card">
