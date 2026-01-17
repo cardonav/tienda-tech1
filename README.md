@@ -43,9 +43,7 @@ Nuestro objetivo es ofrecer soluciones confiables, accesibles y actualizadas par
 wildercardona404@gmail.com
 manza.le@hotmail,com
 guidoleonardoortiz663@gmail.com
-- 📱 WhatsApp: +57 3147357475
-                +57 3188671495
-                +57 3136101058 
+
 ---
 
 ⭐ ¡Gracias por confiar en Tienda Tecnológica!
