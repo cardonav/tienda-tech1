@@ -2,7 +2,7 @@
 <html lang='es'>
 <head>
     <meta charset='UTF-8'>
-    <title>Tienda Tecnológica - Dashboard</title>
+    <title>Tienda mundo virtual</title>
     <link rel='stylesheet' href='assets/css/estilos.css'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
