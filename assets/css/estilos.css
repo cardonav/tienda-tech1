@@ -1,21 +1,11 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("assets/tienda mundo virtual.png"); /* Imagen de fondo */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../tienda-mundo-virtual.jpg"); /* Imagen de fondo con overlay */
     background-size: cover;        /* Ajusta la imagen a toda la pantalla */
     background-position: center;   /* Centrada */
     background-repeat: no-repeat;  /* No repetir */
     background-attachment: fixed;  /* Fondo fijo */
-}
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.6); /* Oscurece el fondo */
-    z-index: -1;
 }
 
 
@@ -72,7 +62,6 @@ h2 {
     padding: 20px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.3);
 }
-
 
 table {
     width: 100%;
